@@ -1,1 +1,3 @@
-test("basic", () => { expect(1).toBe(1); });
+test('basic test for $repo', () => {
+  expect(1).toBe(1);
+});

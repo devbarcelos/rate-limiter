@@ -9,11 +9,18 @@ Professional rate-limiter library.
 
 ## Installation
 ```bash
-# Install
+npm install rate-limiter
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('rate-limiter');
 ```
 
+## Testing
+```bash
+npm test
+```
+
+## License
+MIT
